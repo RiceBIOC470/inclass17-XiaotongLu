@@ -1,5 +1,5 @@
 %GB comments
-1. 80 Main problem is that you need to incorporate a script that finds the indices (or positions) of pixels that exhibit minimal differences in the pixel intensities. 
+1. 80 Main problem is that you need to incorporate a script that finds the indices (or positions) of pixels that exhibit minimal differences in the pixel intensities. Adjust this in both X and Y
 2)	100
 overall: 90
 
